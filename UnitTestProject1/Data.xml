@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<infoArray>
+  <info data ="hell1230l" expected ="6"> </info>
+  <info data ="programm" expected="0"></info>
+  <info data ="" expected="0"></info>
+  <info data ="12" expected="3"></info>
+</infoArray>
